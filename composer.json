@@ -1,0 +1,25 @@
+{
+    "name": "dhl_api/dhl_api",
+    "type": "library",
+    "require": {
+        "guzzlehttp/psr7": "^2.4",
+        "guzzlehttp/guzzle": "^7.0"
+    },
+    "require-dev": {
+        "phpunit/php-timer": "^6.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ],
+        "psr-4": {
+            
+        }},
+    "authors": [
+        {
+            "name": "macsakini",
+            "email": "macsakini@hotmail.com"
+        }
+    ]
+}
+

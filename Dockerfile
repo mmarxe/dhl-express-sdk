@@ -1,0 +1,1 @@
+FROM php-cli:8.2
